@@ -20,17 +20,17 @@ pip install requests beautifulsoup4 pandas
 ### Search by Author
 
 ```sh
-python scholar.py --author "Author Name"
+python scholarScrape.py --author "Author Name"
 ```
 or
 ```sh
-python scholar.py -a "Author Name"
+python scholarScrape.py -a "Author Name"
 ```
 
 ### Search by Title
 
 ```sh
-python scholar.py "Title" [TIME]
+python scholarScrape.py "Title" [TIME]
 ```
 
 - `TIME`: Year or "all" for all years.
@@ -39,16 +39,16 @@ python scholar.py "Title" [TIME]
 
 Search by author:
 ```sh
-python scholar.py --author "Neil Bohr"
+python scholarScrape.py --author "Neil Bohr"
 ```
 or
 ```sh
-python scholar.py -a "Neil Bohr"
+python scholarScrape.py -a "Neil Bohr"
 ```
 
 Search by title:
 ```sh
-python scholar.py "Machine Learning" 2021
+python scholarScrape.py "Machine Learning" 2021
 ```
 
 ## Contact

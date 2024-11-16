@@ -1,6 +1,6 @@
 # Google Scholar Scraper
 
-This script allows you to search for authors and titles on Google Scholar, open URLs in a browser, download available PDFs, and clear the console screen.
+This command line script (works in windows, linux) allows you to search for authors and titles on Google Scholar, open URLs in a browser, download available PDFs, and clear the console screen.
 
 ## Requirements
 
